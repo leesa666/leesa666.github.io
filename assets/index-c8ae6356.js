@@ -1,1 +1,0 @@
-import{r as o,a as e}from"./index-ed91faf0.js";import{R as t}from"./index-a10bdcfb.js";const s="_box_cown3_1",n={box:s,"box-content":"_box-content_cown3_10"},r=()=>(o.useRef(null),o.useState(""),o.useRef(null),e("div",{className:n.box,children:e(t,{})}));export{r as default};
